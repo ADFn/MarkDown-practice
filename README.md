@@ -30,6 +30,3 @@ HELLO
 * 집중
     * 집중
 
-요기요 <a id="요기">
-
-![깃헙프사](https://github.com/account)
